@@ -1,0 +1,27 @@
+.login-logo{
+    display: block;
+    margin-bottom: 0.75em;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+}
+
+.login-form {    
+    max-width: 300px;
+    min-height: 100vh;
+    margin: 0 auto;
+    padding: 20px 0;
+    position: relative;
+}
+
+.login-form #wrapped {
+    margin: 8.5em auto;
+}
+
+.login-form-forgot {
+    float: right;
+}
+
+.login-form-button {
+    width: 100%;
+}
